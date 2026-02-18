@@ -20,7 +20,7 @@ Platform: .NET Framework 4.7.2
 Kurulum Teknolojisi: Visual Studio Installer Projects
 
 🚀 Hızlı Başlangıç
-[Releases] sekmesine giderek en güncel .zip paketini indirin.
+[Releases](https://github.com/brhnshn/YoutubeMP3indirici/releases) sekmesine giderek en güncel .zip paketini indirin.
 
 Dosyaları klasöre çıkarıp setup.exe dosyasını çalıştırın.
 
@@ -28,8 +28,6 @@ Kurulumu tamamladıktan sonra masaüstündeki kısayola tıklayın.
 
 Bir YouTube videosunun linkini kopyalayın ve "İndir" butonuna basın!
 
-👨‍💻 Geliştirici
-Ben Burhan Şahin, .NET ekosistemi ve Backend Mimarileri üzerine odaklanmış bir yazılım geliştiriciyim. Kullanıcıların hayatını kolaylaştıran pratik çözümler üretmeyi seviyorum.
 
 🌐 [burhansahin.com.tr](https://burhansahin.com.tr/)
 
